@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1670087242 source:d:\canteen management.cpp\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<fstream>
+	<cctype>
+	<iomanip>
+	<vector>
+
